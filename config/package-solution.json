@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "semester-spfx-client-side-solution",
+    "id": "dd8baf97-7d86-4ee8-b20c-26ce774ec633",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/semester-spfx.sppkg"
+  }
+}
