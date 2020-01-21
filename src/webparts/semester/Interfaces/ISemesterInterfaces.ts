@@ -96,17 +96,4 @@ export interface IDateNow {
 }
 
 
-//Email n Pass
-//
-// Eashir@arafate.onmicrosoft.com
-
-// stsvsoon@arafate.onmicrosoft.com
-// 55Svensoon##
-
-// AxelR@arafate.onmicrosoft.com
-// 5555GNR##
-
-// WalidA@arafate.onmicrosoft.com
-// KangarooAus%%
-//
 
